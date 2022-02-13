@@ -1,2 +1,2 @@
-# whattheducc.github.io
-My personal page
+# theducvu.github.io
+My personal page.
